@@ -1,0 +1,15 @@
+# Ignorar credenciales de Google
+credenciales.json
+
+# Archivos de RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
